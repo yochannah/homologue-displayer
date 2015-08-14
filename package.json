@@ -25,6 +25,7 @@
     "gulp-streamify": "^1.0.0",
     "gulp-uglify": "^1.2.0",
     "gulp-util": "^3.0.6",
+    "imjs": "^3.14.0",
     "lodash.assign": "^3.2.0",
     "stringify": "^3.1.0",
     "vinyl-buffer": "^1.0.0",
